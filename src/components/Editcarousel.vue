@@ -8,7 +8,6 @@
                   <div class="header">
                       <h1>{{ this.name }}의 집사일기</h1>
                       <div class="emoji-container">
-                      <!-- Replace with actual image paths -->
                           <img src="../assets/images/cogi.png" alt="Emoji 1">
                           <img src="../assets/images/cute.png" alt="Emoji 2">
                           <img src="../assets/images/bdog.png" alt="Emoji 3">
@@ -16,7 +15,6 @@
                           <b>수정하개!</b>
                       </div>
                   </div>
-                  <!-- Date container -->
                   <div class="option animal-as">
                     <label>나의 반려동물</label>
                     <div class="select-menu">
