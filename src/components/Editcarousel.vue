@@ -45,7 +45,6 @@
                       <hr>
                       <div class="file-options">
                         <div class="slide-container">
-
                           <div class="slide">
                           <div v-for="(slide, index) of slides" :key="slide.imgId" class="image-container">
                             <img :src="slide.imgPath" :alt="'올린 이미지 ' + (index + 1)" class="uploaded-image"

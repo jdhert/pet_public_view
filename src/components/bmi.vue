@@ -65,7 +65,6 @@
           </select>
           <div class="input-container">
             <input type="text" class="petweight" v-model="inputValue" placeholder="5" @input="validateInput">
-            <!-- <div v-if="!inputValue" class="error-message">값을 입력하세요.</div> -->
           </div>
           <div v-if="!selectedPet || !selectedOption1 || !selectedOption2 || !inputValue" class="error-message">모든 값을 선택해주세요.</div>
         <input type="submit" class="submit-button" value="결과보기">

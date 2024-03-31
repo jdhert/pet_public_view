@@ -262,9 +262,6 @@ export default {
         width: 245px;  
     }
 
-    #banner1 .inner :last-child {
-        /* margin-bottom: 0;	 */
-    }
 
 		#banner1 h2, #banner1 h3, #banner1 h4, #banner1 h5, #banner1 h6 {
 			color: #000000;

@@ -3,7 +3,6 @@
   <div class="card">
     <form @submit.prevent="userUpdate">
     <div class="top-container">
-      <!-- <img src="../assets/images/Whale_Logo.png" alt="Logo" class="petUpdateLogo"> -->
       <h1>회원 정보 수정</h1>
     </div>
       <div class="image_container">

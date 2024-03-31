@@ -31,9 +31,7 @@
 					</div>
 					
 					<div class="col-lg-9" id="content">
-					<!-- Post content-->
 						<article>
-								<!-- 2nd section-->
 								<section>
 									<div class="card board-container">
 										<ul class="tabs">
