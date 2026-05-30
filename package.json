@@ -13,7 +13,7 @@
     "@fullcalendar/vue3": "^6.1.11",
     "@react-oauth/google": "^0.12.1",
     "@vuepic/vue-datepicker": "^8.1.1",
-    "axios": "^1.6.7",
+    "axios": "^1.16.0",
     "bootstrap": "^5.3.3",
     "cookies": "^0.9.1",
     "core-js": "^3.8.3",
