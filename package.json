@@ -19,7 +19,7 @@
     "core-js": "^3.8.3",
     "install": "^0.13.0",
     "jquery": "^3.7.1",
-    "npm": "^10.4.0",
+    "npm": "^11.17.0",
     "react-google-login": "^5.2.2",
     "vue": "^3.4.19",
     "vue-carousel": "^0.18.0",
